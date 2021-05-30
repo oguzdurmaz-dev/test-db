@@ -1,0 +1,19 @@
+{
+    "combinations": [
+        {
+            "id": 1,
+            "name": "rock",
+            "wins": "scissors"
+        },
+        {
+            "id": 2,
+            "name": "paper",
+            "wins": "rock"
+        },
+        {
+            "id": 3,
+            "name": "scissors",
+            "wins": "paper"
+        }
+    ]
+}
